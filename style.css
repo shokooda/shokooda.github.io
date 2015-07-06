@@ -1,0 +1,51 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color:#8A8D91;
+	color:#fff;
+	font-size:30px;
+}
+
+#container {
+	padding-top:5%;
+}
+
+.name {
+	font-size:75px;
+	margin:10;
+}
+
+.buttons {
+  margin: 0 auto;
+}
+
+.btn {
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #474447;
+  font-size: 20px;
+  background: #fafafa;
+  padding: 10px 20px 10px 20px;
+  margin: 0 10px 0 10px;
+  border: solid #b8b8b8 2px;
+  text-decoration: none;
+  width:100px;
+  text-align: center;
+  display: inline-block;
+}
+
+.btn:hover {
+  background: #ebebeb;
+  text-decoration: none;
+}
+
+.about {
+	font-size:30px;
+	display:block;
+}
+
+.work {
+	font-size:30px;
+	display:block;
+}
