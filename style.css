@@ -42,10 +42,10 @@ body {
 
 .about {
 	font-size:30px;
-	display:block;
+	display:none;
 }
 
 .work {
 	font-size:30px;
-	display:block;
+	display:none;
 }
