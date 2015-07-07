@@ -33,6 +33,7 @@ body {
   width:100px;
   text-align: center;
   display: inline-block;
+  cursor:pointer;
 }
 
 .btn:hover {
@@ -40,12 +41,10 @@ body {
   text-decoration: none;
 }
 
-.about {
-	font-size:30px;
-	display:none;
+#about {
+	visibility:hidden;
 }
 
-.work {
-	font-size:30px;
-	display:none;
+#writing {
+	visibility:hidden;
 }
