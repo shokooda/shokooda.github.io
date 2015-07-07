@@ -1,8 +1,19 @@
-$('#about-btn').click(function(){
-    $('div[id^=div]').hide();
-    $('#about').show();
-});
-$('#writing-btn').click(function(){
-    $('div[id^=div]').hide();
-    $('#writing').show();
-});
+//JQUERY SHOW/HIDE ABOUT
+
+    $(document).ready(function() {
+        $('#about-btn').click(function() {
+                $('#about').fadeIn("fast");
+            $('#writing').hide();
+        
+        });
+    });
+    
+//JQUERY SHOW/HIDE WRITING
+
+    $(document).ready(function() {
+        $('#writing-btn').click(function() {
+                $('#writing').fadeIn("fast");
+            $('#about').hide();
+        
+        });
+    });

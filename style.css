@@ -3,6 +3,25 @@ body {
 	background-color:#8A8D91;
 	color:#fff;
 	font-size:30px;
+	margin-bottom:5%;
+}
+
+a {
+	color:#b8b8b8;
+}
+
+a:hover {
+	color:#fafafa;
+}
+
+a.name-link{
+	text-decoration:none;
+	color:#fff;
+}
+
+a.name-link:hover {
+	text-decoration:none;
+	color:#fff;
 }
 
 #container {
@@ -12,6 +31,15 @@ body {
 .name {
 	font-size:75px;
 	margin:10;
+}
+
+.bio {
+	font-size:25px;
+	margin:10;
+}
+
+.ending {
+	font-size:35px;
 }
 
 .buttons {
@@ -27,7 +55,7 @@ body {
   font-size: 20px;
   background: #fafafa;
   padding: 10px 20px 10px 20px;
-  margin: 0 10px 0 10px;
+  margin: 0 20px 0 20px;
   border: solid #b8b8b8 2px;
   text-decoration: none;
   width:100px;
@@ -41,10 +69,8 @@ body {
   text-decoration: none;
 }
 
-#about {
-	visibility:hidden;
-}
-
-#writing {
-	visibility:hidden;
+.description{
+	display:none;
+	width:65%;
+	font-size:27px;
 }
