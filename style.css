@@ -1,17 +1,17 @@
 body {
 	font-family: 'Source Sans Pro', sans-serif;
-	background-color:#3FCF51;
+	background-color:#72CE7D;
 	color:#fff;
 	font-size:30px;
 	margin-bottom:5%;
 }
 
 a {
-	color:#b8b8b8;
+	color:#2C9A39;
 }
 
 a:hover {
-	color:#fafafa;
+	color:#2C9A39;
 }
 
 a.name-link{
