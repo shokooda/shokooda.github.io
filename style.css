@@ -1,17 +1,17 @@
 body {
 	font-family: 'Source Sans Pro', sans-serif;
-	background-color:#72CE7D;
+	background-color:#086FA1;
 	color:#fff;
 	font-size:30px;
 	margin-bottom:5%;
 }
 
 a {
-	color:#2C9A39;
+	color:#fff;
 }
 
 a:hover {
-	color:#2C9A39;
+	color:#034679;
 }
 
 a.name-link{
@@ -21,7 +21,7 @@ a.name-link{
 
 a.name-link:hover {
 	text-decoration:none;
-	color:#fff;
+	color:#034679;
 }
 
 #container {
@@ -51,12 +51,12 @@ a.name-link:hover {
   -moz-border-radius: 7;
   border-radius: 7px;
   font-family: 'Source Sans Pro', sans-serif;
-  color: #474447;
+  color: #fff;
   font-size: 20px;
   background: #fafafa;
   padding: 10px 20px 10px 20px;
   margin: 0 20px 0 20px;
-  border: solid #b8b8b8 2px;
+  border: solid #034679 2px;
   text-decoration: none;
   width:100px;
   text-align: center;
